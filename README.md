@@ -1,3 +1,5 @@
+for some odd reason they're having my change this file in the book.  Not sure why, it seemed like a perfectly good readme to me, but hey.  What do I know?
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
